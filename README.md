@@ -38,17 +38,20 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 
 **Languages and Tools:**
 <p align="center">
+  <img src="https://img.shields.io/badge/-C%23-1234?style=flat-square&logo=csharp"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoftsqlserver"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ken888686&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="ken888686's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken888686&count_private=true&theme=radical" alt="ken888686" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken888686&count_private=true&theme=radical" alt="ken888686" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ken888686&count_private=true&theme=radical" alt="ken888686" />
+<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken888686&count_private=true&theme=radical" alt="ken888686" />
