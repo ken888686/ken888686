@@ -39,6 +39,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 **Languages and Tools:**
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-1234?style=flat-square&logo=csharp"/>
+  <img src="https://img.shields.io/badge/-ASP.NET-1234?style=flat-square&logo=dotnet&color=blueviolet"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
