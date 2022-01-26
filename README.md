@@ -36,6 +36,8 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 - 📫 My Email: [ken888686@gmail.com](mailto:ken888686@gmail.com)
 - ⚡ Fun fact: Video Editing is one of my interests.
 
+![](https://komarev.com/ghpvc/?username=ken888686&style=flat)
+
 **Languages and Tools:**
 <p>
   <img src="https://img.shields.io/badge/-C%23-00417B?style=flat-square&logo=csharp&logoColor=white"/>
