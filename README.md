@@ -30,7 +30,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 
 **About Me!**
 
-- 🔭 I'm currently working on real estate agent as an ASP.Net core developer.
+- 🔭 I'm currently working on real estate agent as an ASP.Net Core developer.
 - 🌱 I’m currently learning Vue.js and React.js.
 - 💬 Ask me about anything, I'll try my best to answer!
 - 📫 My Email: [ken888686@gmail.com](mailto:ken888686@gmail.com)
