@@ -56,6 +56,6 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ken888686&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="ken888686's GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ken888686&count_private=true&theme=radical" alt="ken888686" />
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken888686&count_private=true&theme=radical" alt="ken888686" />
+<img src="https://github-readme-stats.vercel.app/api?username=ken888686&show_icons=true&count_private=true&theme=dracula&icon_color=fad000" alt="ken888686's GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ken888686&count_private=true&theme=dracula" alt="ken888686" />
+<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken888686&count_private=true&theme=dracula" alt="ken888686" />
