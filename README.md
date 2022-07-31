@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Aaron!</h3>
 
 <a href="https://www.linkedin.com/in/yungchuntu">
-  <img align="left" alt="Aaron's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aaron's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aarontu.8293/">
-  <img align="left" alt="Aaron's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aaron's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg" />
 </a>
 
 <br />
