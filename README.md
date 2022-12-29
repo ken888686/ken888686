@@ -36,6 +36,8 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 - 📫 My Email: [ken888686@gmail.com](mailto:ken888686@gmail.com)
 - ⚡ Fun fact: Video Editing is one of my interests.
 
+<a href="https://app.daily.dev/ken888686"><img src="https://api.daily.dev/devcards/cfb358b5b0594660b5fcff038e266a9b.png?r=71p" width="400" alt="Yungchun Tu's Dev Card"/></a>
+
 ![](https://komarev.com/ghpvc/?username=ken888686&style=flat)
 
 **Languages and Tools:**
