@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Aaron!</h3>
 
 <a href="https://www.linkedin.com/in/yungchuntu">
-  <img align="left" alt="Aaron's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg" />
+  <img align="left" alt="Aaron's LinkedIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aarontu.8293/">
-  <img align="left" alt="Aaron's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg" />
+  <img align="left" alt="Aaron's Instagram" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />
 </a>
 
 <br />
@@ -36,7 +36,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 - 📫 My Email: [ken888686@gmail.com](mailto:ken888686@gmail.com)
 - ⚡ Fun fact: Video Editing is one of my interests.
 
-<a href="https://app.daily.dev/ken888686"><img src="https://api.daily.dev/devcards/cfb358b5b0594660b5fcff038e266a9b.png?r=71p" width="400" alt="Yungchun Tu's Dev Card"/></a>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ken888686?ext=heatmap)](https://leetcode.com/ken888686)
 
 ![](https://komarev.com/ghpvc/?username=ken888686&style=flat)
 
@@ -52,7 +52,6 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React.js-5CCFEE?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
