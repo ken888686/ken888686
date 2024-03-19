@@ -32,9 +32,9 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 
 - 🔭 I'm currently working in Rakuten Japan as a backend engineer.
 - 🌱 I’m currently learning C#, JAVA and React.js.
-- 💬 Ask me about anything, I'll try my best to answer!
+- 💬 Ask me about anything, and I'll try my best to answer!
 - 📫 My Email: [ken888686@gmail.com](mailto:ken888686@gmail.com)
-- ⚡ Fun fact: Video Editing is one of my interests as well.
+- ⚡ Fun fact: Playing guitar and video editing is one of my interests as well.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ken888686?ext=heatmap)](https://leetcode.com/ken888686)
 
