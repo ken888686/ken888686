@@ -31,7 +31,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 **About Me!**
 
 - 🔭 I'm currently working in Rakuten Japan as a backend engineer.
-- 🌱 I’m currently learning C#, JAVA and React.js.
+- 🌱 I’m currently learning C#, Python and Next.js.
 - 💬 Ask me about anything, and I'll try my best to answer!
 - 📫 My Email: [ken888686@gmail.com](mailto:ken888686@gmail.com)
 - ⚡ Fun fact: Playing guitar and video editing is one of my interests as well.
@@ -43,6 +43,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 **Programming Languages:**
 <p>
   <img src="https://img.shields.io/badge/C%23-00417B?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-B73837?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -55,8 +56,10 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
   <img src="https://img.shields.io/badge/ASP.NET-196FB1?style=flat&logo=dotnet&color=blueviolet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodejs-black?style=flat&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-5CCFEE?style=flat&logo=react&logoColor=white"/>
 </p>
 
